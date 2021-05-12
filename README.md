@@ -1,6 +1,6 @@
 # breakandpass
  * JacaScript, CSS, HTML kullanılarak hazırlanmış iki boyutlu(2d) oyun projesi. <br />
- * Oyun projeme erişmek için buraya tıklayabilirsiniz : http://breakandpass.eu5.org/  <br />
+ * Oyun projesine göz atmak için : http://breakandpass.eu5.org/  <br />
 # Oyun Hakkında
  * Bir atari oyunu olan Breakout' dan esinlenilmiştir. <br />
  * Oyunda belirli bir düzende dizili olan dikdörtgen şeklindeki hedeflerin yuvarlak bir karakter ile yokedilerek puan kazanılması ve bu işlemi gerçekleştirirken yuvarlak karakterin, oyuncu tarafından kontrol edilen bir yapı ile yakalanıp düşmemesi anlatılır. <br />
