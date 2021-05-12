@@ -14,7 +14,7 @@
  * HTML canvas özelliği kullanılarak oyunun sayfada bulunacağı alan oluşturulmuştur. <br />
  * Uzaklık, şekil ve oyunun işleyişinde minimum matematiksel denklemler kullanılmıştır. <br />
 # Oyun Görselleri
- * index.html dosyası herhangi bir web tarayıcıda açılıdğında ekranda görünecek oyun sayfası; <br />
+ * index.html dosyası herhangi bir web tarayıcıda açıldığında ekranda görünecek oyun sayfası; <br />
     ![oyun1](https://user-images.githubusercontent.com/56195071/117902920-32819d00-b2d7-11eb-8d1c-a5b5faaa132e.PNG)
  * Start tuşuna basıldıktan sonra topun engeli kırarak oyun içindeki hareketi; <br />
     ![oyun2](https://user-images.githubusercontent.com/56195071/117903020-6e1c6700-b2d7-11eb-9642-5a1db097442e.PNG)
