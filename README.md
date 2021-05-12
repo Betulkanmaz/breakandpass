@@ -10,7 +10,6 @@
    * Aktarma işleminden sonra .html uzantılı dosyayı Google Chrome ya da Mozilla Firefox gibi web tarayıcılarında çalıştırabilirsiniz. <br />
 # Oyun Oluşum
  * JavaScript, CSS, HTML kullanılarak oluşturulmuştur. <br />
- * İki boyutlu bir oyundur. <br />
  * HTML canvas özelliği kullanılarak oyunun sayfada bulunacağı alan oluşturulmuştur. <br />
  * Uzaklık, şekil ve oyunun işleyişinde minimum matematiksel denklemler kullanılmıştır. <br />
 # Oyun Görselleri
