@@ -11,7 +11,7 @@
 # Oyun Oluşum
  * JavaScript, CSS, HTML kullanılarak oluşturulmuştur. <br />
  * HTML canvas özelliği kullanılarak oyunun sayfada bulunacağı alan oluşturulmuştur. <br />
- * Uzaklık, şekil ve oyunun işleyişinde minimum matematiksel denklemler kullanılmıştır. <br />
+ * Uzaklık, şekil ve oyunun işleyişinde minimum matematiksel ve mantıksal denklemler kullanılmıştır. <br />
 # Oyun Görselleri
  * index.html dosyası herhangi bir web tarayıcıda açıldığında ekranda görünecek oyun sayfası; <br />
     ![oyun1](https://user-images.githubusercontent.com/56195071/117902920-32819d00-b2d7-11eb-8d1c-a5b5faaa132e.PNG)
